@@ -18,9 +18,9 @@ global.owner = [
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['+509 47434099', '94789481495', '923184474176','233531910067','233208179431'] 
-global.prems = ['+509 47434099','233208179431','94789481495', '918360234087','233531910067']
-global.allowed = ['+509 47434099', '233208179431', '94789481495', '918360234087','233531910067']
+global.mods = ['50947434099', '94789481495', '923184474176','233531910067','233208179431'] 
+global.prems = ['50947434099','233208179431','94789481495', '918360234087','233531910067']
+global.allowed = ['50947434099', '233208179431', '94789481495', '918360234087','233531910067']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -69,7 +69,7 @@ global.fglog = 'XLICON.jpg'
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
-global.wait = '*🕣 _ MAX 2.0 IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _MAX 2.0 IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
